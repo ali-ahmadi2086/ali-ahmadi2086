@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Backend Developer
 - 🌱  I’m currently learning Fullstack development.
-- 💞️ 2024 Goals: Contribute more to Open Source projects
+- 💞️ 2025 Goals: Contribute more to Open Source projects
 
 
 
